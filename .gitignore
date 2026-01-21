@@ -1,0 +1,11 @@
+**/trial_*/
+*.pkl
+__pycache__/
+data/tf_data/*
+data\GOTO\sentimen_preprocessing_GOTO.csv
+data\INDF\sentimen_preprocessing_INDF.csv
+data\TLKM\sentimen_preprocessing_TLKM.csv
+
+data\GOTO\data_collection\log_X\log.txt
+data\INDF\data_collection\log_X\log.txt
+data\TLKM\data_collection\log_X\log.txt

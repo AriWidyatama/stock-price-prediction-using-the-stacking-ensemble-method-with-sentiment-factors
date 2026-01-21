@@ -1,0 +1,42 @@
+Tweet Harvest [v2.6.1]
+
+Research by Helmi Satria
+Use it for Educational Purposes only!
+
+This script uses Chromium Browser to crawl data from Twitter with your Twitter auth token.
+Please enter your Twitter auth token when prompted.
+
+Note: Keep your access token secret! Don't share it with anyone else.
+Note: This script only runs on your local device.
+
+
+Opening twitter search page...
+
+
+-- Scrolling... (1) (2) (3) (4) (5)
+Filling in keywords: TLKM OR Telkomsel lang:id since:2024-12-01 until:2024-12-02
+
+
+
+Your tweets saved to: /content/drive/MyDrive/Skripsi/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 20
+
+-- Scrolling... (1) (2)
+
+Your tweets saved to: /content/drive/MyDrive/Skripsi/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 40
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Skripsi/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 60
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Skripsi/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 80
+
+
+Your tweets saved to: /content/drive/MyDrive/Skripsi/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 100
+Got 100 tweets, done scrolling...

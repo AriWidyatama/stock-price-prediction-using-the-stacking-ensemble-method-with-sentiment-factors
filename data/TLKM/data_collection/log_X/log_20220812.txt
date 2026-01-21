@@ -1,0 +1,271 @@
+Tweet Harvest [v2.6.1]
+
+Research by Helmi Satria
+Use it for Educational Purposes only!
+
+This script uses Chromium Browser to crawl data from Twitter with your Twitter auth token.
+Please enter your Twitter auth token when prompted.
+
+Note: Keep your access token secret! Don't share it with anyone else.
+Note: This script only runs on your local device.
+
+
+Opening twitter search page...
+
+
+-- Scrolling... (1)
+Filling in keywords: Telkomsel lang:id since:2022-08-12 until:2022-08-19
+
+ (2)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 15
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 28
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 44
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 63
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 81
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 100
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 117
+
+--Taking a break, waiting for 10 seconds...
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 133
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 146
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 156
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 173
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 190
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 206
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 222
+
+--Taking a break, waiting for 10 seconds...
+[v2.6.1] No more tweets found, please check your search criteria and csv file result
+
+-- Scrolling... (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) (21)No more tweets found, please check your search criteria and csv file result
+Timeout reached 1 times, making sure again...
+
+-- Scrolling... (1) (2)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 237
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 248
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 263
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 278
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 287
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 302
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 317
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 335
+
+--Taking a break, waiting for 10 seconds...
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 348
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 357
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 375
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 385
+[v2.6.1] Error parsing response json: {"_type":"Response","_guid":"response@edf2a1548d3cc38018cc81d4837c42a0"}
+[v2.6.1] Most likely, you have already exceeded the Twitter rate limit. Read more on https://x.com/elonmusk/status/1675187969420828672.
+[v2.6.1] Error parsing response json: {"_type":"Response","_guid":"response@36ca05d79ac07dd2e83c34e1b31be0fa"}
+[v2.6.1] Most likely, you have already exceeded the Twitter rate limit. Read more on https://x.com/elonmusk/status/1675187969420828672.
+[v2.6.1] Error parsing response json: {"_type":"Response","_guid":"response@da7f3b60884aae698c9aa740d53cd34c"}
+[v2.6.1] Most likely, you have already exceeded the Twitter rate limit. Read more on https://x.com/elonmusk/status/1675187969420828672.
+[v2.6.1] Error parsing response json: {"_type":"Response","_guid":"response@1385448eda9b009f4e3748e6df5c2d20"}
+[v2.6.1] Most likely, you have already exceeded the Twitter rate limit. Read more on https://x.com/elonmusk/status/1675187969420828672.
+[v2.6.1] Error parsing response json: {"_type":"Response","_guid":"response@72d2bed709f7495cb7b350e5a6050e32"}
+[v2.6.1] Most likely, you have already exceeded the Twitter rate limit. Read more on https://x.com/elonmusk/status/1675187969420828672.
+[v2.6.1] Error parsing response json: {"_type":"Response","_guid":"response@de837e6ee89f453dbc2577852ecd204e"}
+[v2.6.1] Most likely, you have already exceeded the Twitter rate limit. Read more on https://x.com/elonmusk/status/1675187969420828672.
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 398
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 412
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 426
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 442
+
+--Taking a break, waiting for 10 seconds...
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 458
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 467
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 479
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 493
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 509
+
+-- Scrolling... (1) (2) (3)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 524
+[v2.6.1] No more tweets found, please check your search criteria and csv file result
+
+-- Scrolling... (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) (21)No more tweets found, please check your search criteria and csv file result
+Timeout reached 2 times, making sure again...
+
+-- Scrolling... (1) (2) (3)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 539
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 550
+
+--Taking a break, waiting for 10 seconds...
+
+-- Scrolling... (1) (2) (3)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 564
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 579
+
+-- Scrolling... (1) (2)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 596
+
+-- Scrolling... (1)[v2.6.1] No more tweets found, please check your search criteria and csv file result
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 611
+
+-- Scrolling... (1) (2)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 627
+[v2.6.1] No more tweets found, please check your search criteria and csv file result
+
+-- Scrolling... (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) (21)No more tweets found, please check your search criteria and csv file result
+Timeout reached 3 times, making sure again...
+
+-- Scrolling... (1) (2)
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 638
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 648
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 660
+
+--Taking a break, waiting for 10 seconds...
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 671
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 685
+
+
+Your tweets saved to: /content/drive/MyDrive/Scrapping_Data/TLKM/tweets-data/New_X_comments_TLKM.csv
+Total tweets saved: 700
+Got 700 tweets, done scrolling...
