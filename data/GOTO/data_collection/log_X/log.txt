@@ -1,0 +1,47 @@
+Tweet Harvest [v2.6.1]
+
+Research by Helmi Satria
+Use it for Educational Purposes only!
+
+This script uses Chromium Browser to crawl data from Twitter with your Twitter auth token.
+Please enter your Twitter auth token when prompted.
+
+Note: Keep your access token secret! Don't share it with anyone else.
+Note: This script only runs on your local device.
+
+
+Opening twitter search page...
+
+
+-- Scrolling... (1) (2)
+Filling in keywords: Gojek OR Tokopedia lang:id since:2025-07-31 until:2025-08-01
+
+ (3) (4) (5) (6) (7) (8)
+
+Your tweets saved to: /content/drive/MyDrive/Skripsi/Scrapping_Data/GOTO/tweets-data/New_X_comments_GOTO.csv
+Total tweets saved: 4
+
+
+Your tweets saved to: /content/drive/MyDrive/Skripsi/Scrapping_Data/GOTO/tweets-data/New_X_comments_GOTO.csv
+Total tweets saved: 24
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Skripsi/Scrapping_Data/GOTO/tweets-data/New_X_comments_GOTO.csv
+Total tweets saved: 44
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Skripsi/Scrapping_Data/GOTO/tweets-data/New_X_comments_GOTO.csv
+Total tweets saved: 52
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Skripsi/Scrapping_Data/GOTO/tweets-data/New_X_comments_GOTO.csv
+Total tweets saved: 63
+
+-- Scrolling... (1)
+
+Your tweets saved to: /content/drive/MyDrive/Skripsi/Scrapping_Data/GOTO/tweets-data/New_X_comments_GOTO.csv
+Total tweets saved: 83
+Got 83 tweets, done scrolling...
